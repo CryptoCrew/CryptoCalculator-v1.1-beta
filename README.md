@@ -2,6 +2,7 @@
 A basic console-based cryptocurrency calculator.
 
 Once you have downloaded the .zip file, extract it and follow the file path below to get to the .exe file:
+
     Crypto_Calculator_11 -> Crypto_Calculator_11 -> obj -> x86 -> Release -> Crypto_Calculator_11.exe
 
 Once you run the application, simply follow the instructions as they appear. For now you will have to get the cryptocurrency prices manually, hopefully in a later version the calculator will have an option to retrieve the data from the web. 
